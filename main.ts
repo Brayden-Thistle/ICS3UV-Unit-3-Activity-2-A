@@ -2,7 +2,7 @@
  * @author Brayden Thistle
  * @version 1.0.0
  * @date 2025-11-11
- * @fileoverview this program.
+ * @fileoverview this program prompts the user for their name, course and 3 of their test marks along with its average
  */
 
 let StudentName: string;
